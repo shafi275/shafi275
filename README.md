@@ -2,7 +2,7 @@
 <!-- <img align="center" src="https://your-custom-banner-url.com/banner.jpg" /> -->
 
 <h1 align="center">Hi 👋, I'm Md. Al. Shariyar Shafi</h1>
-<p align="center">An enthusiastic Software Engineering student passionate about full-stack development and data-driven solutions.</p>
+<p align="center">A motivated Software Engineering student dedicated to continuous learning and leveraging data-driven solutions to solve real-world challenges..</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shafi275&label=Profile%20views&color=0e75b6&style=flat" alt="shafi275" />
