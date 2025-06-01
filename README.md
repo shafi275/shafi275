@@ -17,7 +17,7 @@
 - 🔭 Currently learning Django REST Framework & Database Systems  
 - 🌱 Exploring data analysis with Pandas, NumPy & Seaborn  
 - 📫 Reach me at **shariyarshafi27@gmail.com**  
-- 🔗 [My LinkedIn](http://linkedin.com/in/shariyar-shafi-)  
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/shariyar-shafi-14292523b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🧩 Open to learning and collaborating on meaningful tech projects  
 
 ---
